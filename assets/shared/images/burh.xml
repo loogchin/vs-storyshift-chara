@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="burh.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="0" y="0" width="1191" height="839"/>
+	<SubTexture name="Symbol 10001" x="1191" y="0" width="1191" height="839"/>
+	<SubTexture name="Symbol 10002" x="2382" y="0" width="1191" height="839"/>
+	<SubTexture name="Symbol 10003" x="3573" y="0" width="1191" height="839"/>
+	<SubTexture name="Symbol 10004" x="4764" y="0" width="1191" height="839"/>
+	<SubTexture name="Symbol 10005" x="5955" y="0" width="1191" height="839"/>
+	<SubTexture name="Symbol 10006" x="0" y="839" width="1191" height="839"/>
+	<SubTexture name="Symbol 10007" x="1191" y="839" width="1191" height="839"/>
+	<SubTexture name="Symbol 10008" x="2382" y="839" width="1191" height="839"/>
+	<SubTexture name="Symbol 10009" x="3573" y="839" width="1191" height="839"/>
+	<SubTexture name="Symbol 10010" x="4764" y="839" width="1191" height="839"/>
+	<SubTexture name="Symbol 10011" x="5955" y="839" width="1191" height="839"/>
+	<SubTexture name="Symbol 10012" x="0" y="1678" width="1191" height="839"/>
+	<SubTexture name="Symbol 10013" x="1191" y="1678" width="1191" height="839"/>
+	<SubTexture name="Symbol 10014" x="2382" y="1678" width="1191" height="839"/>
+	<SubTexture name="Symbol 10015" x="3573" y="1678" width="1191" height="839"/>
+	<SubTexture name="Symbol 10016" x="4764" y="1678" width="1191" height="839"/>
+	<SubTexture name="Symbol 10017" x="5955" y="1678" width="1191" height="839"/>
+	<SubTexture name="Symbol 10018" x="5955" y="1678" width="1191" height="839"/>
+	<SubTexture name="Symbol 10019" x="5955" y="1678" width="1191" height="839"/>
+	<SubTexture name="Symbol 10020" x="5955" y="1678" width="1191" height="839"/>
+	<SubTexture name="Symbol 10021" x="5955" y="1678" width="1191" height="839"/>
+	<SubTexture name="Symbol 10022" x="0" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10023" x="1191" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10024" x="2382" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10025" x="3573" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10026" x="4764" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10027" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10028" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10029" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10030" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10031" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10032" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10033" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10034" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10035" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10036" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10037" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10038" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10039" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10040" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10041" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10042" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10043" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10044" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10045" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10046" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10047" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10048" x="5955" y="2517" width="1191" height="839"/>
+	<SubTexture name="Symbol 10049" x="5955" y="2517" width="1191" height="839"/>
+</TextureAtlas>

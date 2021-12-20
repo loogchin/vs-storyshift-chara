@@ -1,0 +1,31 @@
+{
+	"storyName": "Story Shift Chara",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"devilovania",
+			"chara",
+			[
+				0,
+				95,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "storyshift chara"
+}

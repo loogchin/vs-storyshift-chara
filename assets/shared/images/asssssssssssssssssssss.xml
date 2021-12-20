@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="asssssssssssssssssssss.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ass0000" x="0" y="0" width="278" height="459" frameX="-1" frameY="-15" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0001" x="0" y="0" width="278" height="459" frameX="-1" frameY="-15" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0002" x="278" y="0" width="269" height="465" frameX="-2" frameY="-9" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0003" x="278" y="0" width="269" height="465" frameX="-2" frameY="-9" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0004" x="547" y="0" width="263" height="471" frameX="-1" frameY="-3" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0005" x="547" y="0" width="263" height="471" frameX="-1" frameY="-3" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0006" x="0" y="471" width="261" height="473" frameX="-1" frameY="-1" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0007" x="0" y="471" width="261" height="473" frameX="-1" frameY="-1" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0008" x="261" y="471" width="262" height="474" frameX="0" frameY="0" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0009" x="261" y="471" width="262" height="474" frameX="0" frameY="0" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0010" x="261" y="471" width="262" height="474" frameX="0" frameY="0" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0011" x="261" y="471" width="262" height="474" frameX="0" frameY="0" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0012" x="261" y="471" width="262" height="474" frameX="0" frameY="0" frameWidth="279" frameHeight="474"/>
+	<SubTexture name="ass0013" x="261" y="471" width="262" height="474" frameX="0" frameY="0" frameWidth="279" frameHeight="474"/>
+</TextureAtlas>

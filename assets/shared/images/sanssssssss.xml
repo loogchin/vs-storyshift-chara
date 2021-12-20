@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sanssssssss.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sanssss0000" x="0" y="0" width="351" height="538" frameX="0" frameY="-16" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0001" x="0" y="0" width="351" height="538" frameX="0" frameY="-16" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0002" x="351" y="0" width="345" height="543" frameX="-2" frameY="-10" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0003" x="351" y="0" width="345" height="543" frameX="-2" frameY="-10" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0004" x="696" y="0" width="341" height="548" frameX="-4" frameY="-4" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0005" x="696" y="0" width="341" height="548" frameX="-4" frameY="-4" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0006" x="1037" y="0" width="341" height="551" frameX="-4" frameY="-1" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0007" x="1037" y="0" width="341" height="551" frameX="-4" frameY="-1" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0008" x="1378" y="0" width="340" height="552" frameX="-4" frameY="0" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0009" x="1378" y="0" width="340" height="552" frameX="-4" frameY="0" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0010" x="1378" y="0" width="340" height="552" frameX="-4" frameY="0" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0011" x="1378" y="0" width="340" height="552" frameX="-4" frameY="0" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0012" x="1378" y="0" width="340" height="552" frameX="-4" frameY="0" frameWidth="351" frameHeight="554"/>
+	<SubTexture name="sanssss0013" x="1378" y="0" width="340" height="552" frameX="-4" frameY="0" frameWidth="351" frameHeight="554"/>
+</TextureAtlas>
